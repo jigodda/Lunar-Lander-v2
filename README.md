@@ -1,2 +1,3 @@
 # Lunar-Lander-v2
-OpenAi Gym environment lunar lander using Tensorflow neural network
+Execute activity.py to run the trained agent
+savedModelFinal.h5 contains the completed model
